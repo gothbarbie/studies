@@ -11,6 +11,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - 2021, Learn you a Haskell for great good (Book)
 - 2021, Refactoring, Second Edition (Improving the Design of Eisting Code), Martin Fowler (Book)
 - 2021, You don't know JavaScript, First Edition, Kyle Simpson. (Book)
+- 2021, [The Git and Github Bootcamp (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp)
 
 ## Backlog
 - Effective Java, Third Edition. (Best practies for the Java Platform), Joshua Bloch. (Book)
