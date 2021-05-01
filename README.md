@@ -12,6 +12,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - 2021, Learn you a Haskell for great good (Book)
 - 2021, Refactoring, Second Edition (Improving the Design of Eisting Code), Martin Fowler (Book)
 - 2021, You don't know JavaScript, First Edition, Kyle Simpson. (Book)
-
+- 2021, [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
+- 
 ## Backlog
 - Effective Java, Third Edition. (Best practies for the Java Platform), Joshua Bloch. (Book)
