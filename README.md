@@ -8,7 +8,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - 2018 and again 2021, [JavaScript Algorithms and Data Structures (Udemy)](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 2021, [The Git and Github Bootcamp (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp)
 - 2021, Microservices Patterns, Chris Richardson (Book)
-- 2021, [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects)
+- 2021, [Linux Shell Scripting: A Project-Based Approach to Learning (Udemy)](https://www.udemy.com/course/linux-shell-scripting-projects)
 
 ## Doing
 - 2021, Learn you a Haskell for great good (Book)
@@ -19,3 +19,4 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 ## Backlog
 - Effective Java, Third Edition. (Best practies for the Java Platform), Joshua Bloch. (Book)
+- The Linux Command Line, Second Edition, William Shotts. (Book)
