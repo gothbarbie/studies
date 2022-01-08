@@ -3,7 +3,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 ## Done
 
-### 2017
+### 2017 (Frontend Developer)
 - Advanced React and Redux, Stephen Grider (Udemy)
 - Webpack 2: The Complete Developer's Guide, Stephen Grider (Udemy)
 - GraphQL with React: The Complete Developers Guide, Stephen Grider (Udemy)
@@ -12,8 +12,8 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - The Complete React Native + Hooks Course, Stephen Grider (Udemy)
 - Professional CSS Flexbox, Greg Bararaghimian (Udemy)
 - Learn SVG Animation - With HTML, CSS & Javascript, Code Collective (Udemy)
-
-### 2018
+ 
+### 2018 (Frontend Developer)
 - Webpack 4: Beyond the Basics, Lawrence Whiteside (Udemy)
 - Node with React: Fullstack Web Development, Stephen Grider (Udemy)
 - Server Side Rendering with React and Redux, Stephen Grider (Udemy)
@@ -22,17 +22,17 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - The Complete Junior to Senior Web Developer Roadmap, Andrei Neagoie (Udemy)
 - Redux Saga with React: Fast-track Redux Saga intro course, Tom Philips (Udemy)
 
-### 2019
+### 2019 (Frontend Developer and Team Lead)
 - [Testing JavaScript](https://testingjavascript.com/), Kent C Dodds. (Online Course)
 - Typescript: The Complete Developer's Guide, Stephen Grider (Udemy)
 
-### 2020
+### 2020 (Engineering Manager)
 - Sprint (How to solve big problems and test new ideas in just five days), Jake Knapp (Book)
 - The Agile Samurai Bootcamp (Udemy)
 - Angular - The Complete Guide (Udemy)
 - Socket.IO (with websockets) - the details, (socket io v2) (Udemy)
 
-### 2021
+### 2021 (Engineering Manager)
 - Creating Effective Teams (A practical guide for building and sustaining top-performing teams), Susan A. Wheelan. (Book)
 - 2018 and again 2021, [JavaScript Algorithms and Data Structures (Udemy)](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [The Git and Github Bootcamp, Colt Steele (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp)
