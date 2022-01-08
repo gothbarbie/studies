@@ -2,6 +2,8 @@
 A collection of things I've studied over the years. Listed mostly for my own entertainment and as a point of reference for recommendations.
 
 ## Done
+
+### 201?
 - 201?, Advanced React and Redux, Stephen Greider (Udemy)
 - 201?, Webpack 2: The Complete Developer's Guide, Stephen Greider (Udemy)
 - 201?, Redux Saga with React: Fast-track Redux Saga intro course, Tom Philips (Udemy)
@@ -10,11 +12,17 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - 201?, Learn SVG Animation - With HTML, CSS & Javascript, Code Collective (Udemy)
 - 201?, Socket.IO (with websockets) - the details, (socket io v2) (Udemy)
 - 201?, Server Side Rendering with React and Redux, Stephen Grider (Udemy)
+
+### 2019
 - 2019, [Testing JavaScript](https://testingjavascript.com/), Kent C Dodds. (Online Course)
+
+### 2020
 - 2020, Typescript: The Complete Developer's Guide
 - 2020, Sprint (How to solve big problems and test new ideas in just five days), Jake Knapp (Book)
 - 2020, The Agile Samurai Bootcamp (Udemy)
 - 2020, Angular - The Complete Guide (Udemy)
+
+### 2021
 - 2021, Creating Effective Teams (A practical guide for building and sustaining top-performing teams), Susan A. Wheelan. (Book)
 - 2018 and again 2021, [JavaScript Algorithms and Data Structures (Udemy)](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 2021, [The Git and Github Bootcamp, Colt Steele (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp)
