@@ -42,8 +42,10 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - RxJS in Practice (with FREE E-Book), Angular University (Udemy)
 - The Complete Cyber Security Course: Hackers Exposed! (Udemy)
 
+### 2022 (Engineering Manager)
+- Linux Security and Hardening, The Practical Security Guide (Udemy) https://www.udemy.com/certificate/UC-e13dbc6d-7fd5-412b-8552-daa5fa9e9885/
+
 ## Doing
-- 2022, Linux Security and Hardening, The Practical Security Guide (Udemy)
 - 2021, Refactoring, Second Edition (Improving the Design of Existing Code), Martin Fowler (Book)
 - 2021, You don't know JavaScript, First Edition, Kyle Simpson. (Book)
 - 2021, [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
