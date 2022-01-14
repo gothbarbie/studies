@@ -6,7 +6,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 ### 2017 (Frontend Developer)
 - Advanced React and Redux, Stephen Grider (Udemy)
 - Webpack 2: The Complete Developer's Guide, Stephen Grider (Udemy)
-- GraphQL with React: The Complete Developers Guide, Stephen Grider (Udemy)
+- GraphQL with React: The Complete Developers Guide, Stephen Grider (Udemy) https://www.udemy.com/certificate/UC-OMRTF7OB/
 - Complete Flexbox Course: Master CSS3 Flexbox for Good, Peter Sommerhoff (Udemy)
 - Modern React with Redux, Stephen Grider (Udemy)
 - The Complete React Native + Hooks Course, Stephen Grider (Udemy)
@@ -15,12 +15,12 @@ A collection of things I've studied over the years. Listed mostly for my own ent
  
 ### 2018 (Frontend Developer)
 - Webpack 4: Beyond the Basics, Lawrence Whiteside (Udemy)
-- Node with React: Fullstack Web Development, Stephen Grider (Udemy)
+- Node with React: Fullstack Web Development, Stephen Grider (Udemy) https://www.udemy.com/certificate/UC-UL5T193O/
 - Server Side Rendering with React and Redux, Stephen Grider (Udemy)
 - React - Mastering Test Driven Development, David Joseph Katz (Udemy)
 - Node, SQL, & PostgreSQL - Mastering Backend Web Development, David Joseph Katz (Udemy)
 - The Complete Junior to Senior Web Developer Roadmap, Andrei Neagoie (Udemy)
-- Redux Saga with React: Fast-track Redux Saga intro course, Tom Philips (Udemy)
+- Redux Saga with React: Fast-track Redux Saga intro course, Tom Philips (Udemy) https://www.udemy.com/certificate/UC-C5XUMSB2/
 
 ### 2019 (Frontend Developer and Team Lead)
 - [Testing JavaScript](https://testingjavascript.com/), Kent C Dodds. (Online Course)
@@ -46,6 +46,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - Linux Security and Hardening, The Practical Security Guide (Udemy) https://www.udemy.com/certificate/UC-e13dbc6d-7fd5-412b-8552-daa5fa9e9885/
 
 ## Doing
+- 2022, Microservices with Node JS and React, Stephen Grider (Udemy)
 - 2021, Refactoring, Second Edition (Improving the Design of Existing Code), Martin Fowler (Book)
 - 2021, You don't know JavaScript, First Edition, Kyle Simpson. (Book)
 - 2021, [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
