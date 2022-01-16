@@ -3,6 +3,28 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 ## Done
 
+Previous to 2017 I studied mainly using other sources than Udemy (youtube, books, other online sources), so I have few sources to figure out what I learned which year. That is why this list only goes back as far as to 2017.
+
+These are estimates based on project files I've found from old cloud backups, and the year they were last edited (so they could be older):
+
+- 2015, Laravel and AngularJS
+- 2015, Greensock
+- 2015, Laravel 5
+- 2015, Misc. JavaScript
+- 2015, jQuery
+- 2016, React (egghead.io)
+- 2016, Unity
+- 2016, PHP Unit
+- 2016, PHP Polymorphism
+- 2016, Essential PHP Security (CodeCourse)
+- 2016, PHP Authentication (CodeCourse)
+- 2016, PHP Collection Class (CodeCourse)
+- 2016, PHP Session Class (CodeCourse)
+- 2016, PHP Validation Class (CodeCourse)
+- 2016, PHP Storage Class (CodeCourse)
+- 2016, PHP Patterns (CodeCourse)
+- 2016, Vue (CodeCourse)
+
 ### 2017 (Frontend Developer)
 - Advanced React and Redux, Stephen Grider (Udemy)
 - Webpack 2: The Complete Developer's Guide, Stephen Grider (Udemy)
