@@ -26,10 +26,14 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 ## Done
 
-### 2022 (Engineering Manager)
+### 2022 
+Current Role: Engineering Manager
+
 - Linux Security and Hardening, The Practical Security Guide (Udemy) https://www.udemy.com/certificate/UC-e13dbc6d-7fd5-412b-8552-daa5fa9e9885/
 
-### 2021 (Engineering Manager)
+### 2021
+Role: Engineering Manager
+
 - Creating Effective Teams (A practical guide for building and sustaining top-performing teams), Susan A. Wheelan. (Book)
 - 2018 and again 2021, [JavaScript Algorithms and Data Structures (Udemy)](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [The Git and Github Bootcamp, Colt Steele (Udemy)](https://www.udemy.com/course/git-and-github-bootcamp)
@@ -39,17 +43,23 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - RxJS in Practice (with FREE E-Book), Angular University (Udemy)
 - The Complete Cyber Security Course: Hackers Exposed! (Udemy)
 
-### 2020 (Engineering Manager)
+### 2020
+Role: Engineering Manager
+
 - Sprint (How to solve big problems and test new ideas in just five days), Jake Knapp (Book)
 - The Agile Samurai Bootcamp (Udemy)
 - Angular - The Complete Guide (Udemy)
 - Socket.IO (with websockets) - the details, (socket io v2) (Udemy)
 
-### 2019 (Frontend Developer and Team Lead)
+### 2019
+Role: Frontend Developer and Team Lead
+
 - [Testing JavaScript](https://testingjavascript.com/), Kent C Dodds. (Online Course)
 - Typescript: The Complete Developer's Guide, Stephen Grider (Udemy)
 
-### 2018 (Frontend Developer)
+### 2018
+Role: Frontend Developer
+
 - Webpack 4: Beyond the Basics, Lawrence Whiteside (Udemy)
 - Node with React: Fullstack Web Development, Stephen Grider (Udemy) https://www.udemy.com/certificate/UC-UL5T193O/
 - Server Side Rendering with React and Redux, Stephen Grider (Udemy)
@@ -58,7 +68,9 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - The Complete Junior to Senior Web Developer Roadmap, Andrei Neagoie (Udemy)
 - Redux Saga with React: Fast-track Redux Saga intro course, Tom Philips (Udemy) https://www.udemy.com/certificate/UC-C5XUMSB2/
 
-### 2017 (Frontend Developer)
+### 2017
+Role: Frontend Developer
+
 - Advanced React and Redux, Stephen Grider (Udemy)
 - Webpack 2: The Complete Developer's Guide, Stephen Grider (Udemy)
 - GraphQL with React: The Complete Developers Guide, Stephen Grider (Udemy) https://www.udemy.com/certificate/UC-OMRTF7OB/
@@ -68,7 +80,10 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 - Professional CSS Flexbox, Greg Bararaghimian (Udemy)
 - Learn SVG Animation - With HTML, CSS & Javascript, Code Collective (Udemy)
  
-Previous to 2017 I studied mainly using other sources than Udemy (youtube, books, other online sources), so I have few sources to figure out what I learned which year. That is why this list only goes back as far as to 2017.
+
+### <= 2016
+ 
+Previous to 2017 I studied mainly using other sources than Udemy (youtube, books, other online sources), so I have few sources to figure out what I learned which year.
 
 These are estimates based on project files I've found from old cloud backups, and the year they were last edited (so they could be older):
 
