@@ -4,28 +4,34 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 ## Potential Summer Projects 2022
 
-- Unreal Engine C++ Developer: Learn C++ and Make Video Games (Udemy)
-- Complete C# Unity Game Developer 2D (Udemy)
+| Title                                                       | Author | Type  |
+| :---------------------------------------------------------- | :----- | :---- |
+| Unreal Engine C++ Developer: Learn C++ and Make Video Games |        | Udemy |
+| Complete C# Unity Game Developer 2D                         |        | Udemy |
 
 ## Backlog
 
-- Effective Java, Third Edition. (Best practies for the Java Platform), Joshua Bloch. (Book)
-- The Linux Command Line, Second Edition, William Shotts. (Book)
-- The Pragmatic Programmer (re-read) (Book)
-- You Don't Know JavaScript Yet, Get Started, Second Edition, Kyle Simpson. (Book)
-- You Don't Know JavaScript Yet, Closures, Second Edition, Kyle Simpson (Book)
-- Learn you a Haskell for great good (Book)
-- Linux Security: The Complete Iptables Firewall Guide (Udemy)
-- Developing a Multithreaded Kernel from Scratch! (Udemy)
-- Ethical Hacking and Network Security from Scratch in 2022 (Udemy)
+| Title                                                                | Author         | Type  |
+| :------------------------------------------------------------------- | :------------- | :---- |
+| Effective Java, Third Edition. (Best practies for the Java Platform) | Joshua Bloch   | Book  |
+| The Linux Command Line, Second Edition                               | William Shotts | Book  |
+| The Pragmatic Programmer (re-read)                                   |                | Book  |
+| You Don't Know JavaScript Yet, Get Started, Second Edition           | Kyle Simpson   | Book  |
+| You Don't Know JavaScript Yet, Closures, Second Edition              | Kyle Simpson   | Book  |
+| Learn you a Haskell for great good                                   |                | Book  |
+| Linux Security: The Complete Iptables Firewall Guide                 |                | Udemy |
+| Developing a Multithreaded Kernel from Scratch!                      |                | Udemy |
+| Ethical Hacking and Network Security from Scratch in 2022            |                | Udemy |
 
 ## Doing
 
-- 2022, Microservices with Node JS and React, Stephen Grider (Udemy)
-- 2021, Refactoring, Second Edition (Improving the Design of Existing Code), Martin Fowler (Book)
-- 2021, You don't know JavaScript, First Edition, Kyle Simpson. (Book)
-- 2021, [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
-- 2021, How Linux Works (Book)
+| Started | Title                                                                                                                      | Author         | Type  |
+| :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
+| 2022    | Microservices with Node JS and React                                                                                       | Stephen Grider | Udemy |
+| 2021    | Refactoring, Second Edition (Improving the Design of Existing Code)                                                        | Martin Fowler  | Book  |
+| 2021    | You don't know JavaScript, First Edition                                                                                   | Kyle Simpson   | Book  |
+| 2021    | [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide) |                | Udemy |
+| 2021    | How Linux Works                                                                                                            |                | Book  |
 
 ## Done
 
