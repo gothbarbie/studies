@@ -27,6 +27,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 | Started | Title                                                                                                                      | Author         | Type  |
 | :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
+| 2022    | Microfrontends with React: A Complete Developer's Guide | Stephen Grider | Udemy |
 | 2021    | Refactoring, Second Edition (Improving the Design of Existing Code)                                                        | Martin Fowler  | Book  |
 | 2021    | You don't know JavaScript, First Edition                                                                                   | Kyle Simpson   | Book  |
 | 2021    | [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide) |                | Udemy | 
