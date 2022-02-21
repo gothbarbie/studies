@@ -27,7 +27,6 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 | Started | Title                                                                                                                      | Author         | Type  |
 | :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
-| 2022    | Microfrontends with React: A Complete Developer's Guide | Stephen Grider | Udemy |
 | 2021    | Refactoring, Second Edition (Improving the Design of Existing Code)                                                        | Martin Fowler  | Book  |
 | 2021    | You don't know JavaScript, First Edition                                                                                   | Kyle Simpson   | Book  |
 | 2021    | [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide) |                | Udemy | 
@@ -41,6 +40,7 @@ Current Role: Engineering Manager
 
 | Title                                                      | Author | Type  | Certificate                                                                |
 | :--------------------------------------------------------- | :----- | :---- | :------------------------------------------------------------------------- |
+| Microfrontends with React: A Complete Developer's Guide | Stephen Grider | Udemy | https://www.udemy.com/certificate/UC-3c8dbd6d-2e09-492f-a2b5-7e02cfc25d41/ |
 | Microservices with Node JS and React                                                                                       | Stephen Grider | Udemy | https://www.udemy.com/certificate/UC-fa991bce-4342-4949-87d5-d8963186203e/ |
 | Linux Security and Hardening, The Practical Security Guide |        | Udemy | https://www.udemy.com/certificate/UC-e13dbc6d-7fd5-412b-8552-daa5fa9e9885/ |
 
