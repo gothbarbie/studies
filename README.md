@@ -2,37 +2,39 @@
 
 A collection of things I've studied over the years. Listed mostly for my own entertainment and as a point of reference for recommendations.
 
-## Potential Summer Projects 2022
+## Potential Summer Projects 2023
 
 | Title                                                       | Author | Type  |
 | :---------------------------------------------------------- | :----- | :---- |
-| Unreal Engine C++ Developer: Learn C++ and Make Video Games |        | Udemy |
-| Complete C# Unity Game Developer 2D                         |        | Udemy |
+| Get a puppy |        | Labrador  |
 
 ## Backlog
 
 | Title                                                                | Author         | Type  |
 | :------------------------------------------------------------------- | :------------- | :---- |
-| Effective Java, Third Edition. (Best practies for the Java Platform) | Joshua Bloch   | Book  |
 | The Linux Command Line, Second Edition                               | William Shotts | Book  |
 | The Pragmatic Programmer (re-read)                                   |                | Book  |
 | You Don't Know JavaScript Yet, Get Started, Second Edition           | Kyle Simpson   | Book  |
 | You Don't Know JavaScript Yet, Closures, Second Edition              | Kyle Simpson   | Book  |
 | Learn you a Haskell for great good                                   |                | Book  |
-| Linux Security: The Complete Iptables Firewall Guide                 |                | Udemy |
-| Developing a Multithreaded Kernel from Scratch!                      |                | Udemy |
-| Ethical Hacking and Network Security from Scratch in 2022            |                | Udemy |
 
 ## Doing
 
 | Started | Title                                                                                                                      | Author         | Type  |
 | :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
-| 2021    | Refactoring, Second Edition (Improving the Design of Existing Code)                                                        | Martin Fowler  | Book  |
-| 2021    | You don't know JavaScript, First Edition                                                                                   | Kyle Simpson   | Book  |
-| 2021    | [Docker and Kubernetes, the Complete Guide (Udemy)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide) |                | Udemy | 
-| 2021    | How Linux Works                                                                                                            |                | Book  |
+| 2023 | GitHub Actions - The Complete Guide | Maximilian Schwarzmüller | Udemy |
 
 ## Done
+
+### 2023
+
+Current Role: Engineering Manager
+
+| Title                                                      | Author | Type  | Certificate                                                                |
+| :--------------------------------------------------------- | :----- | :---- | :------------------------------------------------------------------------- |
+| Go: The Complete Developer's Guide (Golang)
+ | Stephen Grider | Udemy | [https://www.udemy.com/certificate/UC-3c8dbd6d-2e09-492f-a2b5-7e02cfc25d41/](https://www.udemy.com/certificate/UC-48e0ff2b-19f2-450b-9c0f-a9d474d3c8d3/) |
+
 
 ### 2022
 
