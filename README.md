@@ -22,7 +22,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 
 | Started | Title                                                                                                                      | Author         | Type  |
 | :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
-| 2023 | GitHub Actions - The Complete Guide | Maximilian Schwarzmüller | Udemy |
+| 2023 | Web Development w/Google's Go (golang) | Todd McLeod | Udemy |
 
 ## Done
 
@@ -34,6 +34,7 @@ Current Role: Engineering Manager
 | :--------------------------------------------------------- | :----- | :---- | :------------------------------------------------------------------------- |
 | Go: The Complete Developer's Guide (Golang)
  | Stephen Grider | Udemy | [https://www.udemy.com/certificate/UC-3c8dbd6d-2e09-492f-a2b5-7e02cfc25d41/](https://www.udemy.com/certificate/UC-48e0ff2b-19f2-450b-9c0f-a9d474d3c8d3/) |
+ | GitHub Actions - The Complete Guide | Maximilian Schwarzmüller | Udemy |  |
 
 
 ### 2022
