@@ -23,6 +23,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 | Started | Title                                                                                                                      | Author         | Type  |
 | :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
 | 2023 | Web Development w/Google's Go (golang) | Todd McLeod | Udemy |
+| 2023 | The Data Analyst Course: Complete Data Analyst Bootcamp | 365 Careers | Udemy |
 
 ## Done
 
