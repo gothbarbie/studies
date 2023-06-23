@@ -2,11 +2,12 @@
 
 A collection of things I've studied over the years. Listed mostly for my own entertainment and as a point of reference for recommendations.
 
-## Potential Summer Projects 2023
+## Summer Projects 2023
 
 | Title                                                       | Author | Type  |
 | :---------------------------------------------------------- | :----- | :---- |
-| Get a puppy |        | Labrador  |
+| Python, Pandas, and Matlibplot |        |   |
+| Golang |        |   |
 
 ## Backlog
 
@@ -24,6 +25,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 | :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
 | 2023 | Web Development w/Google's Go (golang) | Todd McLeod | Udemy |
 | 2023 | The Data Analyst Course: Complete Data Analyst Bootcamp | 365 Careers | Udemy |
+| 2023 | 2023 Python Data Analysis & Visualisation Masterclass | Colt Steel | Udemy |
 
 ## Done
 
