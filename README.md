@@ -25,7 +25,6 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 | :------ | :------------------------------------------------------------------------------------------------------------------------- | :------------- | :---- |
 | 2023 | Web Development w/Google's Go (golang) | Todd McLeod | Udemy |
 | 2023 | The Data Analyst Course: Complete Data Analyst Bootcamp | 365 Careers | Udemy |
-| 2023 | 2023 Python Data Analysis & Visualisation Masterclass | Colt Steel | Udemy |
 
 ## Done
 
@@ -35,6 +34,7 @@ Current Role: Engineering Manager
 
 | Title                                                      | Author | Type  | Certificate                                                                |
 | :--------------------------------------------------------- | :----- | :---- | :------------------------------------------------------------------------- |
+| 2023 Python Data Analysis & Visualisation Masterclass | Colt Steel | Udemy | https://www.udemy.com/certificate/UC-e4c31cbe-45b3-461b-92ec-6c26ed8deeaa/ |
 | Go: The Complete Developer's Guide (Golang) | Stephen Grider | Udemy | [https://www.udemy.com/certificate/UC-3c8dbd6d-2e09-492f-a2b5-7e02cfc25d41/](https://www.udemy.com/certificate/UC-48e0ff2b-19f2-450b-9c0f-a9d474d3c8d3/) |
  | GitHub Actions - The Complete Guide | Maximilian Schwarzmüller | Udemy | https://www.udemy.com/certificate/UC-095bf644-5f83-4286-ae7e-3a4ac00f5d23/ |
 
