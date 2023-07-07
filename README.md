@@ -26,6 +26,7 @@ A collection of things I've studied over the years. Listed mostly for my own ent
 | 2023 | Web Development w/Google's Go (golang) | Todd McLeod | Udemy |
 | 2023 | The Data Analyst Course: Complete Data Analyst Bootcamp | 365 Careers | Udemy |
 | 2023 | [Python Coding Guidelines, Tooling, Testing and Packaging](https://www.udemy.com/course/python-coding-guidelines-tooling-testing-and-packaging) | Jan Schaffranek | Udemy |
+| 2023 | [Learning Python for Data Analysis and Visualisation](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization) | Jose Portilla | Udemy |
 
 ## Done
 
