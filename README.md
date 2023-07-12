@@ -39,6 +39,7 @@ Current Role: Engineering Manager
 | 2023 Python Data Analysis & Visualisation Masterclass | Colt Steel | Udemy | https://www.udemy.com/certificate/UC-e4c31cbe-45b3-461b-92ec-6c26ed8deeaa/ |
 | Go: The Complete Developer's Guide (Golang) | Stephen Grider | Udemy | [https://www.udemy.com/certificate/UC-3c8dbd6d-2e09-492f-a2b5-7e02cfc25d41/](https://www.udemy.com/certificate/UC-48e0ff2b-19f2-450b-9c0f-a9d474d3c8d3/) |
  | GitHub Actions - The Complete Guide | Maximilian Schwarzmüller | Udemy | https://www.udemy.com/certificate/UC-095bf644-5f83-4286-ae7e-3a4ac00f5d23/ |
+ | Modern Software Engineering | David Farley | Book | |
 
 
 ### 2022
